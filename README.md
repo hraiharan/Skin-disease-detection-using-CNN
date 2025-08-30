@@ -28,6 +28,7 @@ This repository contains a project aimed at detecting and classifying various sk
    python main-tf-serving.py
    ```
 4. **Open the Cmd and go to frontend**:
+   go .env.example in frontend and change it .env
    ```bash
    cd frontend
    npm install --from-lock-json
