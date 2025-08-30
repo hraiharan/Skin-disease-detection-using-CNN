@@ -29,6 +29,9 @@ This repository contains a project aimed at detecting and classifying various sk
    ```
 4. **Open the Cmd and go to frontend**:
    ```bash
+   cd frontend
+   npm install --from-lock-json
+   npm audit fix
    npm start
    ```
 ### Output:
